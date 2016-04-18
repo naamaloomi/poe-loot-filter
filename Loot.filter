@@ -74,26 +74,6 @@ Show
     SetBorderColor 255 128 255
     SetFontSize 45
 
-# Searching for chaos
-#Show
-#    # BaseType "Ring"
-#    Class "Ring"
-#    ItemLevel >= 60
-#    Rarity = Normal
-#    SetTextColor 254 128 128
-#    SetBackgroundColor 0 0 0
-#    SetBorderColor 254 128 128
-
-# Searching for chaos
-#Show
-#    # BaseType "Amulet"
-#    Class "Amulet"
-#    ItemLevel >= 60
-#    Rarity = Normal
-#    SetTextColor 254 128 128
-#    SetBackgroundColor 0 0 0
-#    SetBorderColor 254 128 128
-
 # Searching for +3 staff
 #Show
 #    # BaseType "Staff"
