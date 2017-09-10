@@ -1,17 +1,22 @@
-# Version 1.1
+# Version 1.2
 
 # Jewels
 Show
     Class Jewel
     Rarity = Unique
     SetBorderColor 255 104 4
-    SetTextColor 255 104 4
     SetFontSize 36
 
 Show
     Class Jewel
-    SetBorderColor 0 255 255
-    SetTextColor 0 255 255
+    Rarity = Rare
+    SetBorderColor 255 255 119 
+    SetFontSize 36
+
+Show
+    Class Jewel
+    Rarity = Magic
+    SetBorderColor 136 136 255 
     SetFontSize 36
 
 # Divination Cards
