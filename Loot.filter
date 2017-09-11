@@ -196,7 +196,8 @@ Show
 # Chisel Recipe (20% Hammer + Any Endgame Map)
 Show
     Rarity = Normal
-    ItemLevel >= 64
+    ItemLevel >= 60
+    Quality >= 5
     BaseType "Gavel" "Stone Hammer" "Rock Breaker"
     SetBackgroundColor 33 30 26
     SetBorderColor 0 255 64
